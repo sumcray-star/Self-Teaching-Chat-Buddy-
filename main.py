@@ -1,6 +1,4 @@
 
-# https://youtu.be/CkkjXTER2KE?si=nfWZyLjCAFb6F2r4 Link mei dekh leh 
-
 import json
 from difflib import get_close_matches
 
